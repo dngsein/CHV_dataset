@@ -1,0 +1,6 @@
+train: /content/CHV_dataset/content/train/images
+val: /content/CHV_dataset/valid/images
+test: /content/CHV_dataset/test/images
+
+nc: 6
+names: ['person', 'vest', 'blue-helmet', 'red-helmet', 'white-helmet', 'yellow-helmet']
